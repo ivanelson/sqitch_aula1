@@ -3,3 +3,4 @@
 %uri=https://github.com/ivanelson/sqitch_aula1
 
 schema_escola 2016-02-23T14:46:36Z Ivan Nunes <ivan.nunes@iv4n.com> # Add schema for escola
+@v1.0.0-9595 2016-02-23T15:10:50Z Ivan Nunes <ivan.nunes@iv4n.com> # Tag da cricao do esquema escola
