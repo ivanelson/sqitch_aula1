@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=escola
+%uri=https://github.com/ivanelson/sqitch_aula1
+
+schema_escola 2016-02-23T14:46:36Z Ivan Nunes <ivan.nunes@iv4n.com> # Add schema for escola
